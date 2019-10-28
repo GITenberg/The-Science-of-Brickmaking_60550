@@ -1,0 +1,25 @@
+_repo: The-Science-of-Brickmaking_60550
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harris, George Frederick
+    birthdate: 1862
+    deathdate: 1906
+    gutenberg_agent_id: '51012'
+    url: http://www.gutenberg.org/2009/agents/51012
+    wikipedia: https://en.wikipedia.org/wiki/George_Frederick_Harris_(geologist)
+description: ''
+gutenberg_issued: '2019-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60550'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brickmaking -- Handbooks, manuals, etc.'
+- !lcc 'TP'
+- GITenberg
+title: The Science of Brickmaking
+url: http://www.gutenberg.org/ebooks/60550
